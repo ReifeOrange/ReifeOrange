@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ReifeOrange
-- 👀 I’m interested in Cpding
-- 🌱 I’m currently C#
+Nothing to read here
